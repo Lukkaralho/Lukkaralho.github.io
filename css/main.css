@@ -1,0 +1,80 @@
+style{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: rgb(78, 72, 72);
+}
+
+footer{
+    background-color: rgb(78, 72, 72);
+}
+header,
+footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 0,08;
+}
+.Bulking{
+    
+    color: red;
+    font-size: 50px;
+    text-align:center ;
+ }
+ .txt1{
+    text-align: left;
+    max-width: 600px;
+    width: 100%;
+    max-width: 600px;  
+ }
+ body{
+    padding: 30px;
+    background-color: black;
+    background-image: url('../img/Gorilla\ Strength.jpg'); 
+    background-repeat: no-repeat;
+    background-size: contain ;
+    background-position: right;    
+}
+p{
+    color: white;
+    opacity:45 ;
+    max-width: 600px;
+}
+ul li::marker {
+    
+    color: rgb(173, 172, 172); 
+    font-size: 24px; 
+}
+#txt1{
+    text-align: left;
+
+}
+#letraPreta {
+    color: black;
+
+}
+ol{
+    color: white;
+}
+img {
+    margin-right: 20px; 
+    max-width: 200px; 
+}
+table {
+    border: 1px solid black;
+    border-radius: 10px;
+    border-collapse: collapse;
+    width: 43%;
+    margin-left: 0;
+    margin-right: auto;
+}
+th,tr,td{
+    color: black;
+    padding: center;
+
+}
+.content {
+    display: flex;
+    align-items:flex-start ; 
+}
